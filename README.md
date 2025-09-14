@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar  
 
-<!--
-**Omar-Issa1/Omar-Issa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Backend Developer passionate about building scalable applications.  
+- Skilled in **Node.js**, **Express.js**, and database design (**MongoDB**, **PostgreSQL**).  
+- Enjoy problem-solving, learning new technologies, and writing clean, maintainable code.  
+- Love reading books and continuous self-improvement.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (Node.js)  
+- **Databases:** MongoDB, PostgreSQL  
+- **Frameworks & Tools:** Express.js, JWT, Docker, REST APIs, WebSockets, Git & GitHub  
+
+---
+
+## 📊 GitHub Stats
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-issa1&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-issa1&layout=compact&theme=tokyonight)  
+
+---
+
+## 📌 Featured Projects
+- [Node Express Course](https://github.com/Omar-issa1/Node_Express_Course) – Practice projects with Node.js and Express.  
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: [omar.issa.contact@gmail.com](omar.issa.contact@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/omar-issa-788987384/]([https://linkedin.com/](https://www.linkedin.com/in/omar-issa-788987384/))  
+  
+---
+
+⭐️ From [Omar](https://github.com/Omar-Issa1)
