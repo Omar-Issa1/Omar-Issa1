@@ -1,102 +1,34 @@
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Omar+Issa+👋;Back-End+Developer+⚙️;Node.js+%7C+Express.js+%7C+APIs" alt="Typing SVG" />
+</h1>
 
+---
 
-<!-- Header + animated SVG background -->
-<div align="center" style="position:relative;overflow:hidden;padding:28px;border-radius:12px;background:#07070a;">
+### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">🧠 About Me</span>
 
-  <!-- Animated soft glowing particles (SVG) -->
-  <!-- Single neon color: #00FFF0 -->
-  <svg width="100%" height="220" viewBox="0 0 1200 220" preserveAspectRatio="none" style="position:absolute;left:0;top:0;mix-blend-mode:screen;pointer-events:none;opacity:0.85;">
-    <defs>
-      <filter id="blur">
-        <feGaussianBlur stdDeviation="8" result="blur"/>
-        <feColorMatrix in="blur" type="matrix"
-          values="0 0 0 0 0
-                  0 0 0 0 1
-                  0 0 0 0 1
-                  0 0 0 0.6 0" result="col"/>
-        <feBlend in="SourceGraphic" in2="col" mode="screen"/>
-      </filter>
-    </defs>
-
-    <!-- group of soft particles (positions randomized visually) -->
-    <g filter="url(#blur)">
-      <circle cx="120" cy="40" r="18" fill="#00FFF0" opacity="0.14">
-        <animate attributeName="cx" dur="18s" values="120;110;140;120" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="16s" values="40;60;30;40" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="8s" values="0.12;0.22;0.12" repeatCount="indefinite"/>
-      </circle>
-
-      <circle cx="300" cy="70" r="26" fill="#00FFF0" opacity="0.11">
-        <animate attributeName="cx" dur="22s" values="300;320;280;300" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="20s" values="70;90;50;70" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="10s" values="0.08;0.18;0.08" repeatCount="indefinite"/>
-      </circle>
-
-      <circle cx="520" cy="28" r="14" fill="#00FFF0" opacity="0.13">
-        <animate attributeName="cx" dur="20s" values="520;540;500;520" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="14s" values="28;48;18;28" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="7s" values="0.1;0.2;0.1" repeatCount="indefinite"/>
-      </circle>
-
-      <circle cx="760" cy="120" r="30" fill="#00FFF0" opacity="0.10">
-        <animate attributeName="cx" dur="24s" values="760;740;780;760" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="18s" values="120;140;100;120" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="11s" values="0.07;0.17;0.07" repeatCount="indefinite"/>
-      </circle>
-
-      <circle cx="980" cy="48" r="20" fill="#00FFF0" opacity="0.12">
-        <animate attributeName="cx" dur="19s" values="980;960;1000;980" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="15s" values="48;68;28;48" repeatCount="indefinite"/>
-        <animate attributeName="opacity" dur="9s" values="0.09;0.19;0.09" repeatCount="indefinite"/>
-      </circle>
-
-      <!-- a few subtle small particles -->
-      <circle cx="200" cy="160" r="8" fill="#00FFF0" opacity="0.07">
-        <animate attributeName="cx" dur="16s" values="200;210;190;200" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="21s" values="160;170;150;160" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="440" cy="150" r="6" fill="#00FFF0" opacity="0.06">
-        <animate attributeName="cx" dur="18s" values="440;460;420;440" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="14s" values="150;160;140;150" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="1120" cy="180" r="10" fill="#00FFF0" opacity="0.05">
-        <animate attributeName="cx" dur="26s" values="1120;1100;1140;1120" repeatCount="indefinite"/>
-        <animate attributeName="cy" dur="20s" values="180;190;170;180" repeatCount="indefinite"/>
-      </circle>
-    </g>
-  </svg>
-
-  <!-- Main centered content -->
-  <div style="position:relative; z-index:2; color:#e6f7f7; padding:18px; max-width:920px; margin:0 auto;">
-
-    <!-- Typing header (image) -->
-    <h1 style="margin:6px 0 6px 0;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF0&center=true&vCenter=true&width=680&lines=Hey+there!+I'm+Omar+Issa+👋;Back-End+Developer+⚙️;Node.js+%7C+Express.js+%7C+APIs" alt="Typing SVG" />
-    </h1>
-
-    <!-- Subheading with glow -->
-    <p style="margin:6px 0 0 0;color:#bfeff0;font-size:16px;text-shadow:0 0 10px rgba(0,255,240,0.12);">
-      Building secure, scalable, and maintainable backend systems for real products. Focused on APIs, auth, and performance.
-    </p>
-
-  </div>
-</div>
-
-<br />
-
-<!-- MAIN CONTENT -->
-<!-- Glow headings use inline styles (static glow) -->
-<h2 style="color:#00FFF0; text-shadow:0 0 12px #00FFF0; margin-top:6px;">🧠 About Me</h2>
-
-**Dedicated** and **self-taught** Back-End Developer with strong experience in **Node.js**, **Express.js**, and database
-management using **MongoDB**, **PostgreSQL**, and **MySQL**. Experienced in building **scalable RESTful APIs**,
-**authentication systems**, and **full-stack applications** using **React**, **TypeScript**, and modern JavaScript.
+**Dedicated** and **self-taught** **Back-End Developer** with strong experience in **Node.js**, **Express.js**, and **database
+management** using **MongoDB**, **PostgreSQL**, and **MySQL**. Experienced in building **scalable** **RESTful APIs**,
+**authentication systems**, and **full-stack application**s using **React**, **TypeScript**, and **modern JavaScript**.
 Passionate about developing **efficient**, **secure**, and **maintainable** backend systems. Currently working as a
 backend developer on **SoliMaking**, a short film platform **(in progress)**.
 
 ---
+### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📊 GitHub Stats</span>
 
-<h2 style="color:#00FFF0; text-shadow:0 0 12px #00FFF0;">⚙️ Tech Stack</h2>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omar-Issa1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Issa1&theme=react&hide_border=true&background=0D1117&ring=00FFF0&fire=00FFF0" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Issa1&theme=react-dark&hide_border=true&color=00FFF0&line=00FFF0&point=00FFF0" />
+</p>
+
+---
+
+
+### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">⚙️ Tech Stack</span>
 
 #### 💻 **Languages & Frameworks**
 ![Node.js](https://img.shields.io/badge/Node.js-0B5D1E?style=for-the-badge&logo=node.js&logoColor=00FF88)
@@ -128,16 +60,20 @@ backend developer on **SoliMaking**, a short film platform **(in progress)**.
 
 ---
 
-<h2 style="color:#00FFF0; text-shadow:0 0 12px #00FFF0;">🧩 Featured Projects</h2>
+### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">🧩 Featured Projects</span>
 
 #### 🧱 **Task Manager API**
-RESTful API with **Node.js**, **Express.js**, and **MongoDB**, featuring full **CRUD** and **JWT authentication**.
+A **RESTful API** built with **Node.js**, **Express.js**, and **MongoDB** that allows users to manage tasks with
+**authentication** and **CRUD** operations
 
 #### 🛒 **Store API**
-A **scalable** and **high-performance** API with **filtering**, **pagination**, and **clean architecture** principles.
+A **scalable API** for managing products with advanced **querying**, **filtering**, and **pagination**. Focused on
+**performance optimization** and **clean architecture** using **Express.js** and **MongoDB**.
+
 
 #### 🔐 **JWT Login/Register App**
-Secure **authentication & authorization** system using **JWT**, **bcrypt**, and Express **middleware**.
+A secure **authentication** and **authorization** system using **JWT**, **bcrypt**, and **Express middleware** for session
+management.
 
 #### 💼 **Jobs Tracker (Full Stack)**
 Full-stack job management app featuring **JWT authentication**, **job analytics**, and CRUD operations.  
@@ -145,24 +81,11 @@ Built with **React (frontend)** and **Node.js/Express.js (backend)**.
 **[🔗 Live Demo](https://jobs-frontend-one.vercel.app/)**
 
 #### 🎬 **SoliMaking (Backend – In Progress)**
-Backend for a short film platform integrating **Vimeo API** for uploads, thumbnails, and metadata management.
+A backend system for a short film platform integrating **Vimeo API** for video uploads, thumbnails, and
+metadata management. Focused on **modular architecture**, **error handling**, and **scalability**.
 
 ---
-
-<h2 style="color:#00FFF0; text-shadow:0 0 12px #00FFF0;">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omar-Issa1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Issa1&theme=react&hide_border=true&background=0D1117&ring=00FFF0&fire=00FFF0" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Issa1&theme=react-dark&hide_border=true&color=00FFF0&line=00FFF0&point=00FFF0" />
-</p>
-
----
-
-<h2 style="color:#00FFF0; text-shadow:0 0 12px #00FFF0;">📫 Connect With Me</h2>
+### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📫 Connect With Me</span>
 
 <p align="center">
   <a href="mailto:omar.issa.contact@gmail.com">
@@ -178,6 +101,6 @@ Backend for a short film platform integrating **Vimeo API** for uploads, thumbna
 
 ---
 
-<h3 align="center" style="color:#00FFF0; text-shadow:0 0 12px #00FFF0;">
-✨ “Suffering does not mean that you will succeed. You can suffer and die.” ✨
-</h3>
+
+<h3 align="center">💬 “Suffering does not mean that you will succeed. You can suffer and die.”</h3>
+
