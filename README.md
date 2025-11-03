@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Omar+Issa+👋;Back-End+Developer+⚙️;Node.js+%7C+Express.js+%7C+APIs" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/Omar-Issa1.png" width="130" style="border-radius:50%; box-shadow:0 0 15px #00fff0;">
-</p>
-
 ---
 
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">🧠 About Me</span>
