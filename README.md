@@ -7,9 +7,11 @@
 
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">🧠 About Me</span>
 
-💡 A passionate **Back-End Developer** specialized in building **secure**, **scalable**, and **high-performance** systems using **Node.js** and **Express.js**.  
-🧩 I focus on crafting **clean architectures**, optimizing **API performance**, and ensuring **security-first design**.  
-🚀 Continuously expanding expertise in **system scalability**, **architecture**, and **software engineering principles**.
+🟦**Dedicated** and **self-taught** **Back-End Developer** with strong experience in **Node.js**, **Express.js**, and **database
+🟦management** using **MongoDB**, **PostgreSQL**, and **MySQL**. Experienced in building **scalable** **RESTful APIs**,
+🟦**authentication systems**, and **full-stack application**s using **React**, **TypeScript**, and **modern JavaScript**.
+🟦Passionate about developing **efficient**, **secure**, and **maintainable** backend systems. Currently working as a
+🟦backend developer on **SoliMaking**, a short film platform **(in progress)**.
 
 ---
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📊 GitHub Stats</span>
@@ -61,13 +63,17 @@
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">🧩 Featured Projects</span>
 
 #### 🧱 **Task Manager API**
-RESTful API with **Node.js**, **Express.js**, and **MongoDB**, featuring full **CRUD** and **JWT authentication**.
+A **RESTful API** built with **Node.js**, **Express.js**, and **MongoDB** that allows users to manage tasks with
+**authentication** and **CRUD** operations
 
 #### 🛒 **Store API**
-A **scalable** and **high-performance** API with **filtering**, **pagination**, and **clean architecture** principles.
+A **scalable API** for managing products with advanced **querying**, **filtering**, and **pagination**. Focused on
+**performance optimization** and **clean architecture** using **Express.js** and **MongoDB**.
+
 
 #### 🔐 **JWT Login/Register App**
-Secure **authentication & authorization** system using **JWT**, **bcrypt**, and Express **middleware**.
+A secure **authentication** and **authorization** system using **JWT**, **bcrypt**, and **Express middleware** for session
+management.
 
 #### 💼 **Jobs Tracker (Full Stack)**
 Full-stack job management app featuring **JWT authentication**, **job analytics**, and CRUD operations.  
@@ -75,7 +81,8 @@ Built with **React (frontend)** and **Node.js/Express.js (backend)**.
 **[🔗 Live Demo](https://jobs-frontend-one.vercel.app/)**
 
 #### 🎬 **SoliMaking (Backend – In Progress)**
-Backend for a short film platform using **Vimeo API** for uploads, metadata, and scalability-focused design.
+A backend system for a short film platform integrating **Vimeo API** for video uploads, thumbnails, and
+metadata management. Focused on **modular architecture**, **error handling**, and **scalability**.
 
 ---
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📫 Connect With Me</span>
