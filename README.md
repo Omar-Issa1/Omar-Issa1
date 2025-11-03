@@ -1,6 +1,4 @@
-<!-- README: Omar Issa - Dark Neon Profile -->
-<!-- Soft glowing particles (single neon color #00FFF0) with static neon-glow headings -->
-<!-- Copy this file to README.md -->
+
 
 <!-- Header + animated SVG background -->
 <div align="center" style="position:relative;overflow:hidden;padding:28px;border-radius:12px;background:#07070a;">
