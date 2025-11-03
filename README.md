@@ -7,11 +7,11 @@
 
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">🧠 About Me</span>
 
-🟦**Dedicated** and **self-taught** **Back-End Developer** with strong experience in **Node.js**, **Express.js**, and **database
-🟦management** using **MongoDB**, **PostgreSQL**, and **MySQL**. Experienced in building **scalable** **RESTful APIs**,
-🟦**authentication systems**, and **full-stack application**s using **React**, **TypeScript**, and **modern JavaScript**.
-🟦Passionate about developing **efficient**, **secure**, and **maintainable** backend systems. Currently working as a
-🟦backend developer on **SoliMaking**, a short film platform **(in progress)**.
+**Dedicated** and **self-taught** **Back-End Developer** with strong experience in **Node.js**, **Express.js**, and **database
+management** using **MongoDB**, **PostgreSQL**, and **MySQL**. Experienced in building **scalable** **RESTful APIs**,
+**authentication systems**, and **full-stack application**s using **React**, **TypeScript**, and **modern JavaScript**.
+Passionate about developing **efficient**, **secure**, and **maintainable** backend systems. Currently working as a
+backend developer on **SoliMaking**, a short film platform **(in progress)**.
 
 ---
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📊 GitHub Stats</span>
