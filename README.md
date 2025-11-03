@@ -12,6 +12,34 @@
 🚀 Continuously expanding expertise in **system scalability**, **architecture**, and **software engineering principles**.
 
 ---
+### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📊 GitHub Stats</span>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omar-Issa1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Issa1&theme=react&hide_border=true&background=0D1117&ring=00FFF0&fire=00FFF0" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Issa1&theme=react-dark&hide_border=true&color=00FFF0&line=00FFF0&point=00FFF0" />
+</p>
+
+---
+
+### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📫 Connect With Me</span>
+
+<p align="center">
+  <a href="mailto:omar.issa.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B" />
+  </a>
+  <a href="https://github.com/Omar-Issa1">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-issa-788987384/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00AFFF" />
+  </a>
+</p>
+
+---
 
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">⚙️ Tech Stack</span>
 
@@ -66,34 +94,6 @@ Backend for a short film platform using **Vimeo API** for uploads, metadata, and
 
 ---
 
-### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📊 GitHub Stats</span>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omar-Issa1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Issa1&theme=react&hide_border=true&background=0D1117&ring=00FFF0&fire=00FFF0" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Issa1&theme=react-dark&hide_border=true&color=00FFF0&line=00FFF0&point=00FFF0" />
-</p>
-
----
-
-### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📫 Connect With Me</span>
-
-<p align="center">
-  <a href="mailto:omar.issa.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B" />
-  </a>
-  <a href="https://github.com/Omar-Issa1">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-issa-788987384/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00AFFF" />
-  </a>
-</p>
-
----
 
 <h3 align="center">💬 “Suffering does not mean that you will succeed. You can suffer and die.”</h3>
 
