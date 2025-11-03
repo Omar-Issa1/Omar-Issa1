@@ -95,6 +95,5 @@ Backend for a short film platform using **Vimeo API** for uploads, metadata, and
 
 ---
 
-<h3 align="center" style="color:#00FFF0; text-shadow:0 0 15px #00FFF0;">
-✨ “Suffering does not mean that you will succeed. You can suffer and die.” ✨
-</h3>
+<h3 align="center">💬 “Suffering does not mean that you will succeed. You can suffer and die.”</h3>
+
