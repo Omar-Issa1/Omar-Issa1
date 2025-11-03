@@ -25,21 +25,6 @@
 
 ---
 
-### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📫 Connect With Me</span>
-
-<p align="center">
-  <a href="mailto:omar.issa.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B" />
-  </a>
-  <a href="https://github.com/Omar-Issa1">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-issa-788987384/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00AFFF" />
-  </a>
-</p>
-
----
 
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">⚙️ Tech Stack</span>
 
@@ -91,6 +76,21 @@ Built with **React (frontend)** and **Node.js/Express.js (backend)**.
 
 #### 🎬 **SoliMaking (Backend – In Progress)**
 Backend for a short film platform using **Vimeo API** for uploads, metadata, and scalability-focused design.
+
+---
+### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📫 Connect With Me</span>
+
+<p align="center">
+  <a href="mailto:omar.issa.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B" />
+  </a>
+  <a href="https://github.com/Omar-Issa1">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/omar-issa-788987384/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00AFFF" />
+  </a>
+</p>
 
 ---
 
