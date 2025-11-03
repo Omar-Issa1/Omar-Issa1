@@ -1,4 +1,3 @@
-```markdown
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7D1&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Omar+Issa+👋;Backend+Developer+%7C+Node.js+%7C+Express.js" alt="Typing SVG" />
