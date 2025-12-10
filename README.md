@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Omar+Issa+👋;Back-End+Developer+⚙️;Node.js+%7C+Express.js+%7C+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Omar+Issa+👋;Back-End+Developer+⚙️;Node.js+%7C+Express.js+%7C+APIs" alt="Typing SVG" />
 </h1>
 
 ---
@@ -9,24 +9,25 @@
 
 **Dedicated** and **self-taught** **Back-End Developer** with strong experience in **Node.js**, **Express.js**, and **database
 management** using **MongoDB**, **PostgreSQL**, and **MySQL**. Experienced in building **scalable** **RESTful APIs**,
-**authentication systems**, and **full-stack application**s using **React**, **TypeScript**, and **modern JavaScript**.
+**authentication systems**, and **full-stack applications** using **React**, **TypeScript**, and **modern JavaScript**.
 Passionate about developing **efficient**, **secure**, and **maintainable** backend systems. Currently working as a
 backend developer on **SoliMaking**, a short film platform **(in progress)**.
 
 ---
+
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📊 GitHub Stats</span>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omar-Issa1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Issa1&theme=react&hide_border=true&background=0D1117&ring=00FFF0&fire=00FFF0" />
+  <img width="48%" src="https://github-readme-stats-phi-snowy-62.vercel.app/api?username=Omar-Issa1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0" />
+
+  <img width="48%" src="https://streak-stats.demolab.com?user=Omar-Issa1&theme=react&hide_border=true&background=0D1117&ring=00FFF0&fire=00FFF0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Issa1&theme=react-dark&hide_border=true&color=00FFF0&line=00FFF0&point=00FFF0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Issa1&theme=react-dark&hide_border=true&area=true&color=00FFF0&line=00FFF0&point=00FFF0" />
 </p>
 
 ---
-
 
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">⚙️ Tech Stack</span>
 
@@ -64,12 +65,11 @@ backend developer on **SoliMaking**, a short film platform **(in progress)**.
 
 #### 🧱 **Task Manager API**
 A **RESTful API** built with **Node.js**, **Express.js**, and **MongoDB** that allows users to manage tasks with
-**authentication** and **CRUD** operations
+**authentication** and **CRUD** operations.
 
 #### 🛒 **Store API**
 A **scalable API** for managing products with advanced **querying**, **filtering**, and **pagination**. Focused on
 **performance optimization** and **clean architecture** using **Express.js** and **MongoDB**.
-
 
 #### 🔐 **JWT Login/Register App**
 A secure **authentication** and **authorization** system using **JWT**, **bcrypt**, and **Express middleware** for session
@@ -85,6 +85,7 @@ A backend system for a short film platform integrating **Vimeo API** for video u
 metadata management. Focused on **modular architecture**, **error handling**, and **scalability**.
 
 ---
+
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📫 Connect With Me</span>
 
 <p align="center">
@@ -101,6 +102,4 @@ metadata management. Focused on **modular architecture**, **error handling**, an
 
 ---
 
-
 <h3 align="center">💬 “Suffering does not mean that you will succeed. You can suffer and die.”</h3>
-
