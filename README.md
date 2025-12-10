@@ -1,94 +1,102 @@
-<!-- HEADER BANNER -->
+<!-- CYBERPUNK NEON BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/uyFjF2T.png" width="100%" alt="banner"/>
+  <img src="https://i.imgur.com/pB7vJ6y.jpeg" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Omar+Issa+👋;Back-End+Developer+⚙️;Node.js+%7C+Express+%7C+PostgreSQL;Building+scalable+systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=14F7FF&center=true&vCenter=true&width=600&lines=OMAR+ISSA+—+BACK-END+DEVELOPER;Node.js+%7C+Express+%7C+PostgreSQL;Cyberpunk+Neon+Style+Activated+⚡;Building+High-Performance+Backends+🚀" />
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Back--End%20Developer-%2300F0FF.svg?&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-%2300FF88.svg?&style=for-the-badge&logo=node.js&logoColor=000"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%2300A4FF.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23111111.svg?&style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Back--End%20Developer-CYBERPUNK%20NEON-ff0099?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=00FF88"/>
+  <img src="https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-001B2E?style=for-the-badge&logo=postgresql&logoColor=00AFFF"/>
 </p>
 
 ---
 
-## ⚡ About Me
+# ⚡ About Me (Cyberpunk Mode)
 
-I'm a **Back-End Developer** focused on building  
-**secure**, **scalable**, and **high-performance** backend systems.  
+I’m **Omar Issa**, a Back-End Developer forging high-performance systems  
+similar to a **Cyberpunk neural network core** ⚡.
 
-💡 Specialized in:
-- REST APIs  
-- Authentication & JWT  
-- Database architecture  
-- Clean code & scalability  
+I specialize in:
+- 🚀 High-performance REST APIs  
+- 🔐 Authentication systems (JWT / bcrypt)  
+- 🛠 Scalable backend architecture  
+- 🗄 PostgreSQL • MongoDB • MySQL  
+- ⚡ Optimized queries + clean modular structure  
 
-🎬 Currently building **SoliMaking**, a backend platform for short films with advanced video handling using **Vimeo API**.
+Currently developing **SoliMaking**, a short-film backend platform  
+with advanced **Vimeo API** video processing.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack — Neon Edition
 
-### 💻 Languages & Backend
+### 🚀 Languages & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,python&theme=light" />
 </p>
 
-### 🗄️ Databases
+### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=light" />
 </p>
 
-### 🧰 Tools
+### ⚙ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=light" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🔥 Featured Projects (Neon Effects)
 
-### 🔹 **Task Manager API**
-✔ Full authentication system  
-✔ Clean architecture  
-✔ Production-ready REST API  
-
----
-
-### 🔹 **Store API**
-✔ Filtering + Sorting + Pagination  
-✔ Optimized queries  
-✔ Modular design  
+## 🔹 Task Manager API
+Cyber-grade REST API with:
+- Full authentication  
+- CRUD  
+- Middleware system  
+- Clean architecture  
 
 ---
 
-### 🔹 **JWT Auth System**
-✔ Access + Refresh tokens  
-✔ Role-based authorization  
-✔ Secured with bcrypt  
+## 🔹 Store API
+Designed for scalability:
+- Filtering  
+- Sorting  
+- Pagination  
+- Optimized DB queries  
 
 ---
 
-### 🔹 **Jobs Tracker (Full Stack)**
-Full-stack application with analytics.  
+## 🔹 JWT Auth System
+Military-level authentication:
+- Access + Refresh tokens  
+- RBAC  
+- Secure bcrypt hashing  
+
+---
+
+## 🔹 Jobs Tracker (Full Stack)
+Frontend + backend job analytics platform.
+
 🔗 **Live Demo:** https://jobs-frontend-one.vercel.app/
 
 ---
 
-### 🔹 **SoliMaking Backend (In Progress)**
-✔ Vimeo integration  
-✔ Video upload + metadata  
-✔ Modular backend design  
+## 🔹 SoliMaking Backend (In Progress)
+- Vimeo API integration  
+- Video upload, metadata, thumbnails  
+- Modular + scalable architecture  
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats — Cyberpunk UI
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Omar-Issa1&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -96,27 +104,28 @@ Full-stack application with analytics.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Issa1&theme=react-dark&hide_border=true&color=00E5FF&line=00CFFF&point=00EFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Issa1&theme=react-dark&hide_border=true&color=0affff&line=00eaff&point=00ffff" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:omar.issa.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00D1FF?style=for-the-badge&logo=gmail&logoColor=000"/>
+    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=000"/>
   </a>
   <a href="https://github.com/Omar-Issa1">
     <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=fff"/>
   </a>
   <a href="https://www.linkedin.com/in/omar-issa-788987384/">
-    <img src="https://img.shields.io/badge/LinkedIn-00A4FF?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/LinkedIn-005CFF?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
 </p>
 
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=FF3E3E&center=true&vCenter=true&width=700&lines=%E2%80%9CSuffering+does+not+mean+that+you+will+succeed.+You+can+suffer+and+die.%E2%80%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=FF0077&center=true&vCenter=true&width=700&lines=%E2%80%9CSuffering+does+not+mean+you+will+succeed.+You+can+suffer+and+die.%E2%80%9D" />
 </h3>
+
