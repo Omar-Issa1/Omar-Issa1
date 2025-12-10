@@ -75,17 +75,26 @@
 
 ---
 
-<h2 align="center">🧩 <span style="color:#00FFF0;">Featured Projects</span></h2>
+<h2 align="center">📊 <span style="color:#00FFF0;">GitHub Analytics</span></h2>
 
-| 🧱 **Task Manager API** | 🛒 **Store API** |
-|:---:|:---:|
-| RESTful API built with **Node.js, Express & Mongo**. Manage tasks with Auth & CRUD. | Scalable API with **filtering, sorting & pagination**. Focus on clean architecture. |
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Omar-Issa1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="omar-issa1 trophies" />
+  </a>
+</div>
+<br/>
 
-| 🔐 **JWT Auth System** | 💼 **Jobs Tracker** |
-|:---:|:---:|
-| Secure login/register system using **JWT, Bcrypt** & middleware protection. | Full-stack job analytics app. **MERN Stack**. <br> [🔗 Live Demo](https://jobs-frontend-one.vercel.app/) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Issa1&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=ffffff&align=center" height="150" alt="Omar's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Issa1&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=ffffff&langs_count=6" height="150" alt="Omar's Top Languages" />
+</div>
 
-> **🎬 SoliMaking (In Progress):** A backend for a short film platform integrating Vimeo API, focused on modular architecture.
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Issa1&theme=react&hide_border=true&background=0D1117&ring=00FFF0&fire=00FFF0&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="Omar's Streak" />
+</div>
 
 ---
 
