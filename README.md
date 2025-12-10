@@ -1,19 +1,23 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF0&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Omar+Issa+👋;Back-End+Developer+⚙️;Node.js+%7C+Express.js+%7C+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Omar+Issa+👋;Back-End+Developer+⚙️;Node.js+%7C+Express.js+%7C+APIs" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">🧠 About Me</span>
 
-**Dedicated** and **self-taught** **Back-End Developer** with strong experience in **Node.js**, **Express.js**, and **database
-management** using **MongoDB**, **PostgreSQL**, and **MySQL**. Experienced in building **scalable** **RESTful APIs**,
-**authentication systems**, and **full-stack application**s using **React**, **TypeScript**, and **modern JavaScript**.
-Passionate about developing **efficient**, **secure**, and **maintainable** backend systems. Currently working as a
-backend developer on **SoliMaking**, a short film platform **(in progress)**.
+Back-End Developer with strong experience in building **scalable**, **secure**, and **high-performance backend systems**.  
+I specialize in **Node.js**, **Express.js**, and database design using **PostgreSQL**, **MongoDB**, and **MySQL**.
+
+I focus on writing **clean architecture**, **modular code**, and **production-ready APIs** with robust authentication,  
+error handling, and performance optimization.
+
+Currently building the backend for **SoliMaking**, a platform for short films (in progress).  
+Driven by continuous learning, deep problem-solving, and creating impactful real-world software.
 
 ---
+
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📊 GitHub Stats</span>
 
 <p align="center">
@@ -27,7 +31,6 @@ backend developer on **SoliMaking**, a short film platform **(in progress)**.
 
 ---
 
-
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">⚙️ Tech Stack</span>
 
 #### 💻 **Languages & Frameworks**
@@ -37,18 +40,16 @@ backend developer on **SoliMaking**, a short film platform **(in progress)**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-1B1F23?style=for-the-badge&logo=typescript&logoColor=00AFFF)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFE873)
 ![React](https://img.shields.io/badge/React-0E0E0E?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-1B1F23?style=for-the-badge&logo=html5&logoColor=FF4500)
-![CSS3](https://img.shields.io/badge/CSS3-0B0B0B?style=for-the-badge&logo=css3&logoColor=00BFFF)
 
 #### 🧰 **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-001A00?style=for-the-badge&logo=mongodb&logoColor=00FF88)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101820?style=for-the-badge&logo=postgresql&logoColor=00BFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-001A00?style=for-the-badge&logo=mongodb&logoColor=00FF88)
 ![MySQL](https://img.shields.io/badge/MySQL-0E0E0E?style=for-the-badge&logo=mysql&logoColor=00FFFF)
 
 #### 🛠️ **Tools & Environment**
+![Docker](https://img.shields.io/badge/Docker-0B1E2C?style=for-the-badge&logo=docker&logoColor=00AFFF)
 ![Git](https://img.shields.io/badge/Git-191919?style=for-the-badge&logo=git&logoColor=F05033)
 ![GitHub](https://img.shields.io/badge/GitHub-0E0E0E?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0B1E2C?style=for-the-badge&logo=docker&logoColor=00AFFF)
 ![Postman](https://img.shields.io/badge/Postman-1A0E00?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0E0E0E?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF)
 
@@ -63,28 +64,37 @@ backend developer on **SoliMaking**, a short film platform **(in progress)**.
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">🧩 Featured Projects</span>
 
 #### 🧱 **Task Manager API**
-A **RESTful API** built with **Node.js**, **Express.js**, and **MongoDB** that allows users to manage tasks with
-**authentication** and **CRUD** operations
-
-#### 🛒 **Store API**
-A **scalable API** for managing products with advanced **querying**, **filtering**, and **pagination**. Focused on
-**performance optimization** and **clean architecture** using **Express.js** and **MongoDB**.
-
-
-#### 🔐 **JWT Login/Register App**
-A secure **authentication** and **authorization** system using **JWT**, **bcrypt**, and **Express middleware** for session
-management.
-
-#### 💼 **Jobs Tracker (Full Stack)**
-Full-stack job management app featuring **JWT authentication**, **job analytics**, and CRUD operations.  
-Built with **React (frontend)** and **Node.js/Express.js (backend)**.  
-**[🔗 Live Demo](https://jobs-frontend-one.vercel.app/)**
-
-#### 🎬 **SoliMaking (Backend – In Progress)**
-A backend system for a short film platform integrating **Vimeo API** for video uploads, thumbnails, and
-metadata management. Focused on **modular architecture**, **error handling**, and **scalability**.
+A production-ready **REST API** for managing tasks with full **authentication**, **authorization**, and CRUD operations.  
+Focuses on clean code structure and reusable modules.
 
 ---
+
+#### 🛒 **Store API**
+A scalable product API with advanced **filtering**, **sorting**, **pagination**,  
+and performance-focused database queries.
+
+---
+
+#### 🔐 **JWT Authentication System**
+Secure login/register system using **JWT**, **bcrypt**, and layered middleware architecture.  
+Implements refresh tokens and role-based access control.
+
+---
+
+#### 💼 **Jobs Tracker (Full Stack)**
+Job management application featuring analytics, protected routes, and full CRUD operations.  
+Built with **React (Frontend)** and **Node.js/Express.js (Backend)**.  
+🔗 **Live Demo:** https://jobs-frontend-one.vercel.app/
+
+---
+
+#### 🎬 **SoliMaking (Backend – In Progress)**
+Backend for a short film platform with **Vimeo API integration**,  
+handling uploads, metadata, thumbnails, and secure routing.  
+Designed with modular architecture and scalability in mind.
+
+---
+
 ### <span style="color:#00FFF0; text-shadow:0 0 10px #00FFF0;">📫 Connect With Me</span>
 
 <p align="center">
@@ -100,6 +110,5 @@ metadata management. Focused on **modular architecture**, **error handling**, an
 </p>
 
 ---
-
 
 <h3 align="center">💬 “Suffering does not mean that you will succeed. You can suffer and die.”</h3>
