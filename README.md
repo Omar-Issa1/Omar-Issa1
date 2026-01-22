@@ -1,129 +1,34 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Omar+Issa+👋;Building+Scalable+Back-End+Systems+⚙️;Node.js+%7C+Express.js+%7C+Databases" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm Omar Issa</h1>
+<h3 align="center">Title: Hi, I'm Omar Issa Subtitle: Backend Engineer focused on scalable systems, backend architecture, and reliability</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=50&section=header&text=&fontSize=0" width="100%"/>
+- 🔭 I’m currently working on [ShortAr — personalized short-form streaming backend](https://github.com/Omar-Issa1/ShortAr)
+
+- 🌱 I’m currently learning **Distributed systems concepts, backend scalability, and system design**
+
+- 👯 I’m looking to collaborate on **Backend-heavy systems (APIs, data pipelines, recommendation logic)**
+
+- 🤝 I’m looking for help with **System design reviews & backend performance optimization**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Omar-Issa1](https://github.com/Omar-Issa1)
+
+- 💬 Ask me about **Backend architecture, Node.js systems, APIs, and recommendation logic**
+
+- 📫 How to reach me **omar.issa.contact@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Omar-Issa1](https://github.com/Omar-Issa1)
+
+- ⚡ Fun fact **I care more about system correctness than frameworks.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/omar-issa-788987384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-issa-788987384" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omar-molotov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar-molotov" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">⚡ <span style="color:#00FFF0;">About Me</span></h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<div align="center">
-<table>
-  <tr>
-    <td valign="center" width="60%">
-      <br>
-      📝 <b>Dedicated & Self-taught Back-End Developer</b><br><br>
-      I specialize in building <b>robust</b> and <b>scalable</b> server-side applications. My passion lies in architecting efficient databases and secure APIs.<br><br>
-      🚀 <b>Current Focus:</b> Developing <b>SoliMaking</b> (Short film platform).<br>
-      💻 <b>Core Stack:</b> Node.js, Express, MongoDB, SQL.<br>
-      🎯 <b>Goals:</b> Writing clean, maintainable, and testable code.<br>
-    </td>
-    <td valign="center" width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/omar.issa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/omar.issa" /></a></p><br><br>
 
----
-
-<h2 align="center">🛠️ <span style="color:#00FFF0;">Tech Stack</span></h2>
-
-<div align="center">
-
-**Languages & Frameworks**<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<br>
-
-**Databases**<br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-<br>
-
-**Tools & Security**<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-
-</div>
-
----
-
-<h2 align="center">📊 <span style="color:#00FFF0;">GitHub Analytics</span></h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Omar-Issa1&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="omar-issa1 trophies" />
-  </a>
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Issa1&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=00FFF0&text_color=ffffff&align=center" height="150" alt="Omar's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Issa1&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=ffffff&langs_count=6" height="150" alt="Omar's Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Issa1&theme=react&hide_border=true&background=0D1117&ring=00FFF0&fire=00FFF0&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="Omar's Streak" />
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Issa1/Omar-Issa1/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-<h2 align="center">🧩 <span style="color:#00FFF0;">Featured Projects</span></h2>
-
-| 🧱 **Task Manager API** | 🛒 **Store API** |
-|:---:|:---:|
-| RESTful API built with **Node.js, Express & Mongo**. Manage tasks with Auth & CRUD. | Scalable API with **filtering, sorting & pagination**. Focus on clean architecture. |
-
-| 🔐 **JWT Auth System** | 💼 **Jobs Tracker** |
-|:---:|:---:|
-| Secure login/register system using **JWT, Bcrypt** & middleware protection. | Full-stack job analytics app. **MERN Stack**. <br> [🔗 Live Demo](https://jobs-frontend-one.vercel.app/) |
-
-> **🎬 SoliMaking (In Progress):** A backend for a short film platform integrating Vimeo API, focused on modular architecture.
-
----
-
-<h2 align="center">📫 <span style="color:#00FFF0;">Connect With Me</span></h2>
-
-<div align="center"> 
-  <a href="mailto:omar.issa.contact@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-issa-788987384/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Omar-Issa1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br>
-<div align="center">
-  <i>“Suffering does not mean that you will succeed. You can suffer and die.”</i><br>
-  <b>– Just kidding, Keep Coding! 💻</b>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFF0&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-issa1&show_icons=true&locale=en" alt="omar-issa1" /></p>
