@@ -1,34 +1,50 @@
-<h1 align="center">Hi 👋, I'm Omar Issa</h1>
-<h3 align="center">Title: Hi, I'm Omar Issa Subtitle: Backend Engineer focused on scalable systems, backend architecture, and reliability</h3>
+# Hi there, I'm Omar Issa 👋
+### Backend Engineer | Node.js & TypeScript Specialist
 
-- 🔭 I’m currently working on [ShortAr — personalized short-form streaming backend](https://github.com/Omar-Issa1/ShortAr)
+[cite_start]I am a dedicated Backend Engineer with a strong focus on building scalable APIs, authentication systems, and data-driven features[cite: 1, 8]. [cite_start]I have experience in designing recommendation engines and optimizing backend logic to enhance user experience[cite: 13, 9].
 
-- 🌱 I’m currently learning **Distributed systems concepts, backend scalability, and system design**
+- [cite_start]🌍 Based in Egypt [cite: 5]
+- [cite_start]✉️ Contact me at: [omar.issa.contact@gmail.com](mailto:omar.issa.contact@gmail.com) [cite: 4]
+- [cite_start]🚀 Passionate about Clean Architecture and Performance Optimization [cite: 9]
 
-- 👯 I’m looking to collaborate on **Backend-heavy systems (APIs, data pipelines, recommendation logic)**
+---
 
-- 🤝 I’m looking for help with **System design reviews & backend performance optimization**
+### 🛠 Tech Stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/Omar-Issa1](https://github.com/Omar-Issa1)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | [cite_start]Node.js, Express.js, TypeScript, JavaScript, REST API Design [cite: 38] |
+| **Databases** | [cite_start]PostgreSQL, MongoDB, MySQL, Caching strategies [cite: 39, 14] |
+| **Security** | [cite_start]JWT, Bcrypt, Middleware Design, Environment Variables [cite: 40] |
+| **Testing** | [cite_start]Integration Testing with Jest, Supertest, and Vitest [cite: 41] |
+| **Tools** | [cite_start]Git, GitHub, Docker, Postman, VS Code [cite: 42] |
 
-- 💬 Ask me about **Backend architecture, Node.js systems, APIs, and recommendation logic**
+---
 
-- 📫 How to reach me **omar.issa.contact@gmail.com**
+### 🌟 Featured Projects
 
-- 📄 Know about my experiences [https://github.com/Omar-Issa1](https://github.com/Omar-Issa1)
+#### 🎬 [ShortAr - Short Series Streaming Platform](https://github.com/Omar-Issal)
+[cite_start]*Backend system featuring a rule-based recommendation engine.* [cite: 11, 12]
+- [cite_start]Designed algorithms using user interactions (views, likes) and content similarity[cite: 13].
+- [cite_start]Implemented time-decay weighting, caching, and cold-start fallbacks[cite: 14].
+- [cite_start]Integrated Vimeo API for secure video management[cite: 15].
+- [cite_start]**Tech:** Node.js, Express.js, MongoDB, Vimeo API[cite: 16].
 
-- ⚡ Fun fact **I care more about system correctness than frameworks.**
+#### 📚 [Digital Library Platform](https://github.com/Omar-Issal)
+[cite_start]*Full-featured backend with role-based access control.* [cite: 17, 18]
+- [cite_start]Implemented JWT-based authentication and secure file uploads[cite: 19].
+- [cite_start]Features include book management, reading progress tracking, and favorites[cite: 19].
+- [cite_start]**Tech:** Node.js, PostgreSQL, Clean Modular Architecture[cite: 20].
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar-issa-788987384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-issa-788987384" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omar-molotov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar-molotov" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🎓 Certifications
+- [cite_start]**JavaScript Algorithms and Data Structures (v8)** - freeCodeCamp (2025) [cite: 46, 47]
+  - [cite_start]300+ hours of coursework covering complex data structures and problem-solving[cite: 48].
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/omar.issa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/omar.issa" /></a></p><br><br>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-issa1&show_icons=true&locale=en" alt="omar-issa1" /></p>
+### 🤝 Connect with Me
+[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar--Issa-blue?style=flat&logo=linkedin)](https://linkedin.com/in/omar-issa-788987384) [cite: 5]
+[cite_start][![GitHub](https://img.shields.io/badge/GitHub-Omar--Issal-black?style=flat&logo=github)](https://github.com/Omar-Issal) [cite: 6]
+[cite_start][![Email](https://img.shields.io/badge/Email-omar.issa.contact@gmail.com-red?style=flat&logo=gmail)](mailto:omar.issa.contact@gmail.com) [cite: 4]
