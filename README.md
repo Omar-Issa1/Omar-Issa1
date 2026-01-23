@@ -45,11 +45,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/>
   </a>
 </p>
----
+
 ### ☕ Support My Work
-<a href="https://buymeacoffee.com/omar.issa" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-</a>
+<p align="center">
+  <a href="https://buymeacoffee.com/omar.issa" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  </a>
+</p>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
