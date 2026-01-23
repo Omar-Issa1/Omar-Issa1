@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Omar%20Issa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h2 align="left">Hi, my name is Omar</h2>
 
@@ -55,4 +54,3 @@ If I'm online, I'm probably building something new or refactoring something I wa
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
