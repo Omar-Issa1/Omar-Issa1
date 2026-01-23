@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Omar%20Issa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h2 align="left">Hi, my name is Omar, also known as Omar Issa</h2>
+<h2 align="left">Hi, my name is Omar</h2>
 
 <p align="left">
 I'm a backend engineer who builds scalable APIs and real-world backend systems.
