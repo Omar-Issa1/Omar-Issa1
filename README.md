@@ -45,6 +45,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/>
   </a>
 </p>
+---
 ### ☕ Support My Work
 <a href="https://buymeacoffee.com/omar.issa" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
