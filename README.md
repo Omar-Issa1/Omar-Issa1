@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi, my name is Omar</h2>
+<h2 align="left">Hi, my name is Omar Issa</h2>
 
 <p align="left">
 I'm a backend engineer who builds scalable APIs and real-world backend systems.
