@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi, my name is Omar Issa</h2>
 
 <p align="left">
@@ -29,9 +28,8 @@ If I'm online, I'm probably building something new or refactoring something I wa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
- <img src="https://jsdelivr.net" height="30" alt="express logo" />
-
   <img width="12" />
+  <img src="https://jsdelivr.net" height="30" alt="express logo" />
 </div>
 
 ###
@@ -52,6 +50,3 @@ If I'm online, I'm probably building something new or refactoring something I wa
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
   </a>
 </p>
-
-
-
